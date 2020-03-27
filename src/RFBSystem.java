@@ -8,6 +8,8 @@ public class RFBSystem {
         Controller controller = new Controller();
 
 
+        System.out.println("test 1 det nye");
+
         while(isRunning) {
 
 
